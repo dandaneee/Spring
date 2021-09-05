@@ -206,7 +206,7 @@ public class MemberController {
 
 
 
-![출력화면](./assets/images/출력화면.JPG)
+![출력화면](./assets/images/출력화면.jpg)
 
 -------------------------
 
